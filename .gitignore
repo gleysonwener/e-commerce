@@ -4,3 +4,4 @@ db.sqlite3
 manage.py
 projeto-ecommerce
 .gitignore
+.idea
