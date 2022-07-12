@@ -1,2 +1,2 @@
 # ecommerce
-Projeto de um e-commerce
+Iniciando Projeto de um e-commerce
