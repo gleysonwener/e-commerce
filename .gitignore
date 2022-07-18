@@ -5,3 +5,4 @@ manage.py
 projeto-ecommerce
 .gitignore
 .idea
+staticfiles
